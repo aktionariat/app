@@ -24,7 +24,7 @@
           },
           "mobile": {
             "native": "aktionariat:",
-            "universal": "https://app.aktionariat.com"
+            "universal": null
           },
           "desktop": { "native": "", "universal": "" },
           "metadata": {
