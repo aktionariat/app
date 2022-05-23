@@ -244,7 +244,7 @@
             "linux": null
           },
           "mobile": { "native": "ledgerlive:", "universal": null },
-          "desktop": { "native": "ledgerlive:", "universal": null },
+          "desktop": { "native": "", "universal": "" },
           "metadata": {
             "shortName": "Ledger",
             "colors": { "primary": "#000000", "secondary": "#FF5300" }
