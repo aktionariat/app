@@ -1,0 +1,14 @@
+[
+    {
+      "relation": [
+        "delegate_permission/common.handle_all_urls"
+      ],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "com.aktionariat.app",
+        "sha256_cert_fingerprints": [
+          "B6:6F:CD:DA:AE:79:8E:62:2C:C6:F7:8F:87:46:6F:F0:FB:FB:ED:90:F2:95:81:A4:7C:01:BE:CD:5A:0F:23:10"
+        ]
+      }
+    }
+  ]
